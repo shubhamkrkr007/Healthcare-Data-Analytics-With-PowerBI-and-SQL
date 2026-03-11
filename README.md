@@ -21,6 +21,7 @@ The dashboard provides insights into:
 * Majority of tests are delivered within a 7–10 days turnaround.
 
 ## Dashboard Preview
-![page1_overview](Output_Screenshots/page1_overview.png)
-![page2_market_intelligence](Output_Screenshots/page2_market_intelligence.png)
-![page3_operational_efficiency](Output_Screenshots/page3_operational_efficiency.png)
+<img width="1422" height="777" alt="page1_overview" src="https://github.com/user-attachments/assets/ead65537-5f6a-495a-9be8-7eed4bd8d08b" />
+<img width="1418" height="779" alt="page2_market_intelligence" src="https://github.com/user-attachments/assets/dd2adefa-ddab-4e29-a2ed-189d9be611a2" />
+<img width="1421" height="781" alt="page3_operational_efficiency" src="https://github.com/user-attachments/assets/5f029a00-a785-41ef-a353-89de4c85b71e" />
+
