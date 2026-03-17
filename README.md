@@ -1,27 +1,15 @@
-# Healthcare Diagnostic KPI Dashboard
+# Healthcare Data Analytics Portfolio (SQL | Power BI | Excel)
 
-This project analyzes diagnostic genomics testing performance across multiple markets.
+Welcome to my data analytics portfolio! This repository serves as a central hub for my data projects, showcasing my ability to transform complex datasets into actionable business insights.
 
-## Project Overview
-The dashboard provides insights into:
-* Test volume trends
-* Revenue distribution
-* Market performance
-* Operational efficiency
-* Referral source contribution
+## Current Projects
+1. **[Healthcare KPI Dashboard]([link-to-folder-or-repo](https://github.com/shubhamkrkr007/Healthcare-Data-Analytics-With-PowerBI-and-SQL/tree/main/Project%201_Healthcare%20KPI%20Dashboard))** *A diagnostic genomics analytics dashboard tracking key laboratory metrics like average turnaround times and revenue by country.*
 
-## Tools Used
-* **SQL** – Data analysis
-* **Power BI** – Dashboard visualization
-* **Excel** – Data generation
+2. **[Patient Journey Analytics]([link-to-folder-or-repo](https://github.com/shubhamkrkr007/Healthcare-Data-Analytics-With-PowerBI-and-SQL/tree/main/Project%202_Patient%20Journey%20Analytics))** *A brief, one-sentence description of the insights generated from this project.*
 
-## Key Insights
-* Oncology panels generate the highest revenue contribution.
-* Hospital partnerships drive the largest referral volume.
-* Majority of tests are delivered within a 7–10 days turnaround.
-
-## Dashboard Preview
-<img width="1422" height="777" alt="page1_overview" src="https://github.com/user-attachments/assets/ead65537-5f6a-495a-9be8-7eed4bd8d08b" />
-<img width="1418" height="779" alt="page2_market_intelligence" src="https://github.com/user-attachments/assets/dd2adefa-ddab-4e29-a2ed-189d9be611a2" />
-<img width="1421" height="781" alt="page3_operational_efficiency" src="https://github.com/user-attachments/assets/5f029a00-a785-41ef-a353-89de4c85b71e" />
-
+## Upcoming Projects
+* Clinical Trials Market Analysis
+* Healthcare Lead Scoring Model
+* Global Conference Lead Intelligence
+* Pharma Pipeline Competitive Mapping
+* KOL Intelligence Database
