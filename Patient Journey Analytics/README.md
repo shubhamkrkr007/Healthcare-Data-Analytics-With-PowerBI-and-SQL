@@ -30,6 +30,3 @@ This analysis can help healthcare organizations:
 - Optimize drug effectiveness
 - Reduce treatment delays
 - Enhance provider performance monitoring
-- Optimize drug effectiveness
-- Reduce treatment delays
-- Enhance provider performance monitoring
